@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Paras-Multi-Services/static/css/main.69eda509.chunk.css",
+    "main.js": "/Paras-Multi-Services/static/js/main.ca461e18.chunk.js",
+    "main.js.map": "/Paras-Multi-Services/static/js/main.ca461e18.chunk.js.map",
+    "runtime-main.js": "/Paras-Multi-Services/static/js/runtime-main.f71bf810.js",
+    "runtime-main.js.map": "/Paras-Multi-Services/static/js/runtime-main.f71bf810.js.map",
+    "static/js/2.6bf01bbd.chunk.js": "/Paras-Multi-Services/static/js/2.6bf01bbd.chunk.js",
+    "static/js/2.6bf01bbd.chunk.js.map": "/Paras-Multi-Services/static/js/2.6bf01bbd.chunk.js.map",
+    "index.html": "/Paras-Multi-Services/index.html",
+    "precache-manifest.010c45972c7d0869b19722d000abe4b5.js": "/Paras-Multi-Services/precache-manifest.010c45972c7d0869b19722d000abe4b5.js",
+    "service-worker.js": "/Paras-Multi-Services/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/Paras-Multi-Services/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.6bf01bbd.chunk.js.LICENSE.txt": "/Paras-Multi-Services/static/js/2.6bf01bbd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f71bf810.js",
+    "static/js/2.6bf01bbd.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.ca461e18.chunk.js"
+  ]
+}
